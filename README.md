@@ -94,7 +94,7 @@ DeepEP is fully tested with InfiniBand networks. However, it is theoretically co
 
 Traffic isolation is supported by InfiniBand through Virtual Lanes (VL).
 
-To prevent interference between different types of traffic, we recommend segregating workloads across different virtual lanes as follows:
+To prevent interference between different types of traffic, we recommend segregating workloads across diferent virtual lanes as follows:
 
 - workloads using normal kernels
 - workloads using low-latency kernels
